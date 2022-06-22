@@ -20,7 +20,8 @@ class MainActivity : AppCompatActivity() {
             R.drawable.img8,
             R.drawable.img9,
             R.drawable.four,
-            R.drawable.my
+            R.drawable.my,
+            R.drawable.eight
 
         )
 
